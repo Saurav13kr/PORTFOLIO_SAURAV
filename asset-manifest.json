@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO_SAURAV/static/css/main.04e88651.css",
+    "main.js": "/PORTFOLIO_SAURAV/static/js/main.83d5841a.js",
+    "static/media/avatar2.jpg": "/PORTFOLIO_SAURAV/static/media/avatar2.d98542a7d6fbe40b34e7.jpg",
+    "static/media/avatar3.jpg": "/PORTFOLIO_SAURAV/static/media/avatar3.f788cdcef4516cdf09c9.jpg",
+    "static/media/avatar4.jpg": "/PORTFOLIO_SAURAV/static/media/avatar4.d661e81d1a7ea3dc740c.jpg",
+    "static/media/portfolio1.jpg": "/PORTFOLIO_SAURAV/static/media/portfolio1.5c1ade64b15631d8c82a.jpg",
+    "static/media/avatar1.jpg": "/PORTFOLIO_SAURAV/static/media/avatar1.269b737854abaf979d17.jpg",
+    "static/media/portfolio2.jpg": "/PORTFOLIO_SAURAV/static/media/portfolio2.79f8a66b2af56c437f56.jpg",
+    "static/media/portfolio5.jpg": "/PORTFOLIO_SAURAV/static/media/portfolio5.4d81fd38c0207087710b.jpg",
+    "static/media/me-about.jpeg": "/PORTFOLIO_SAURAV/static/media/me-about.39fb53f2a691111261a5.jpeg",
+    "static/media/me.jpeg": "/PORTFOLIO_SAURAV/static/media/me.39fb53f2a691111261a5.jpeg",
+    "static/media/portfolio4.jpg": "/PORTFOLIO_SAURAV/static/media/portfolio4.7de15d68e1fe07d1a6bf.jpg",
+    "static/media/portfolio3.jpg": "/PORTFOLIO_SAURAV/static/media/portfolio3.a97bab192b4832339d0a.jpg",
+    "static/media/portfolio6.jpg": "/PORTFOLIO_SAURAV/static/media/portfolio6.97a4d6b52b355f3ecb59.jpg",
+    "static/media/bg-texture.png": "/PORTFOLIO_SAURAV/static/media/bg-texture.ae81808d78d6d7f3619a.png",
+    "index.html": "/PORTFOLIO_SAURAV/index.html",
+    "main.04e88651.css.map": "/PORTFOLIO_SAURAV/static/css/main.04e88651.css.map",
+    "main.83d5841a.js.map": "/PORTFOLIO_SAURAV/static/js/main.83d5841a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e88651.css",
+    "static/js/main.83d5841a.js"
+  ]
+}
